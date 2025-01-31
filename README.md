@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="perfil_github.gif" alt="Profile Gif" width="2050rem" height="300px"/>
+</p>
 <h1 align="center">Olá! 👋 seja bem vindo(a)</h1>
 
 <!--
