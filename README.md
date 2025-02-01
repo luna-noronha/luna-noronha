@@ -5,7 +5,7 @@
 ---
 
 ### 💡 Sobre mim 💡
-- 🔭 Atualmente, estou estudando no/em  Colégio Técnico Industrial - CTI 🚀**
+- 🔭 Atualmente, estou estudando no Colégio Técnico Industrial - CTI 🚀**
 - 🌱 Aprendendo diversas linguagens, por exemplo: Ruby on Rails, React JS, Java, PHP, C#, C++... 
 
 <!--
